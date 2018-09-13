@@ -3,3 +3,8 @@
 *.obj
 *.txt
 *.$*
+*.EXE
+*.BAK
+*.OBJ
+*.TXT
+*.SWP
